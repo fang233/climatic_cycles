@@ -1,0 +1,1 @@
+The Python source code is licensed under the MIT License. The original catchment data produced for this study are licensed under the Creative Commons Attribution 4.0 International License. Third-party data remain subject to the terms of their original providers.
